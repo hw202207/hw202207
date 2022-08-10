@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @hw202207
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Haisheng
+- 👀 I’m interested in programming, hiking, exercising, reading.
+- 🌱 I’m currently learning Haskell !!
+- [This](github.com/freizl) is my another github account.
 
 
 <!---
