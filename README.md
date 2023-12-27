@@ -7,6 +7,15 @@
 
 ## How I spent my time last week:
 <!--START_SECTION:waka-->
+
+```txt
+OrgMode       10 hrs 53 mins  ████████████▒░░░░░░░░░░░░   49.77 %
+Haskell       4 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+Emacs Lisp    2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Git           1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Other         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+```
+
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
