@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Haisheng
-- 👀 I’m interested in programming, hiking, exercising, reading.
-- 🌱 I’m currently learning Haskell !!
-- [This](github.com/freizl) is my another github account.
+
+# Hi 👋, I'm Haisheng
+
+*A programmer*
 
 
-<!---
-hw202207/hw202207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## How I spent my time last week:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## GitHub Stats
+
+<a href="https://github.com/hw202207">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hw202207&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hw202207&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=" />
+</a>
