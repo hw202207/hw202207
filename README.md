@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode      13 hrs 57 mins  ███████████████▓░░░░░░░░░   62.37 %
-Haskell      2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Other        1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+OrgMode       11 hrs 56 mins  ██████████████████░░░░░░░   71.87 %
+Haskell       1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Other         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
