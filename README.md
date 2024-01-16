@@ -9,8 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode       9 hrs 27 mins   ██████████████████▓░░░░░░   74.22 %
-Other         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+OrgMode       11 hrs 50 mins  █████████████░░░░░░░░░░░░   52.40 %
+TypeScript    5 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Other         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
