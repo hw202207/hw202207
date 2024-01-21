@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode       11 hrs 50 mins  █████████████░░░░░░░░░░░░   52.40 %
-TypeScript    5 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-Other         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+TypeScript    11 hrs 51 mins  ██████████░░░░░░░░░░░░░░░   39.78 %
+OrgMode       11 hrs 51 mins  ██████████░░░░░░░░░░░░░░░   39.75 %
+Git           2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Emacs Lisp    1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Text          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JavaScript    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
