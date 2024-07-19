@@ -1,21 +1,2 @@
 name: Waka readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 */5 * *"
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          SECTION_NAME: waka # optional
-          LANG_COUNT: 6 # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional       
-          TIME_RANGE: last_7_days
